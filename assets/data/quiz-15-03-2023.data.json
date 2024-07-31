@@ -1,0 +1,22 @@
+{
+  "quizId": 20240502,
+  "quizName": "Путешествие по России",
+  "startScreen":
+  {
+    "backgroundStartScreen": "assets/images/backgrounds/space.png",
+    "textStartScreen": "Путешествие по России"
+  },
+  "data": [
+    {
+      "backgroundSource": "assets/images/backgrounds/space.png",
+      "startScreen": [
+        {
+          "screenText": "Привет, ребята! Меня зовут ЦиППа, и сейчас мы отправимся в увлекательное путешествие по нашей стране. Вы готовы начать?",
+          "screenTextSource": "quiz-russia/1.mp3",
+          "imageSource": "assets/images/backgrounds/space.png",
+          "backgroundSource": "assets/images/backgrounds/space.png"
+        }
+      ]
+    }
+  ]
+}

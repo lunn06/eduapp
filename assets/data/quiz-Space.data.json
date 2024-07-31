@@ -1,0 +1,181 @@
+{
+    "quizId": 20240502,
+    "quizName": "2 мая 2024",
+    "data": [
+      {
+        "taskText": "Космос и космические объекты.",
+        "taskSource": "quiz-space/task.mp3",
+        "backgroundSource": "assets/images/backgrounds/space.png",
+        "questions": [
+          {
+            "questionText": "В далеком космосе, среди звезд, летел огромный космический корабль. Его гордый командир, капитан Звездолета, мечтал исследовать новые миры. Он нажал кнопку запуска, и корабль мощным рывком взмыл в невесомость. Вопрос:Как называется машина, которая летает в космосе?",
+            "questionSource": "quiz-space/t1.mp3",
+            "answers": [
+              "Космический вертолет",
+              "Космический корабль",
+              "Самолет",
+              "Космическая машина"
+            ],
+            "button_images": [
+              "assets/images/buttons/t1_b1.png",
+              "assets/images/buttons/t1_b2.png",
+              "assets/images/buttons/t1_b3.png",
+              "assets/images/buttons/t1_b4.png"
+            ],
+            "rightAnswer": "Космический корабль",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-space/t1.a.mp3"
+          },
+          {
+            "questionText": "После долгого путешествия Звездолет подошел к спутнику земли Луне. Ее серебристая поверхность сверкала на фоне звездного неба. Капитан и его команда выглянули из иллюминатора и вздохнули от изумления. Вопрос: Что они увидели: Луну, Марс или Венеру?",
+            "questionSource": "quiz-space/t2.mp3",
+            "answers": [
+              "Луна",
+              "Марс",
+              "Венера",
+              "Юпитер"
+            ],
+            "button_images": [
+              "assets/images/buttons/t2_b1.png",
+              "assets/images/buttons/t2_b2.png",
+              "assets/images/buttons/t2_b3.png",
+              "assets/images/buttons/t2_b4.png"
+            ],
+            "rightAnswer": "Луна",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-space/t2.a.mp3"
+          },
+          {
+            "questionText": "После исследования Луны, Звездолет вернулся на родную Землю. Свой красивый сине-зеленый цвет планета демонстрировала со всех сторон. Команда смотрела на шар с любовью и благоговением. Вопрос:Что мы видим из космоса, когда смотрим на Землю?",
+            "questionSource": "quiz-space/t3.mp3",
+            "answers": [
+              "Квадрат",
+              "Шар",
+              "Треугольник",
+              "Ромб"
+            ],
+            "button_images": [
+              "assets/images/buttons/t3_b1.png",
+              "assets/images/buttons/t3_b2.png",
+              "assets/images/buttons/t3_b3.png",
+              "assets/images/buttons/t3_b4.png"
+            ],
+            "rightAnswer": "Шар",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-space/t3.a.mp3"
+          },
+          {
+            "questionText": "Вернувшись домой, капитан Звездолета и его команда смотрели на сверкающее Солнце через окно корабля. Они благодарили эту великолепную звезду за свет и тепло, которые она дарила им во время их приключений. Вопрос:Что команда увидела из иллюминатора:  Луну, Солнце или Плутон?",
+            "questionSource": "quiz-space/t4.mp3",
+            "answers": [
+              "Луна",
+              "Солнце",
+              "Плутон",
+              "Марс"
+            ],
+            "button_images": [
+              "assets/images/buttons/t4_b1.png",
+              "assets/images/buttons/t4_b2.png",
+              "assets/images/buttons/t4_b3.png",
+              "assets/images/buttons/t4_b4.png"
+            ],
+            "rightAnswer": "Солнце",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-space/t4.a.mp3"
+          },
+          {
+            "questionText": "Однажды капитан Звездолета и его отважная команда отправились в удивительное путешествие по Солнечной системе. Они увидели множество красивых планет, вращающихся вокруг яркого Солнца. И самая близкая к Солнцу планета, Меркурий, манила их своей загадочностью. Вопрос: Какая первая планета к солнцу?",
+            "questionSource": "quiz-space/t5.mp3",
+            "answers": [
+              "Меркурий",
+              "Венера",
+              "Земля",
+              "Нептун"
+            ],
+            "button_images": [
+              "assets/images/buttons/t5_b1.png",
+              "assets/images/buttons/t5_b2.png",
+              "assets/images/buttons/t5_b3.png",
+              "assets/images/buttons/t5_b4.png"
+            ],
+            "rightAnswer": "Меркурий",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-space/t5.a.mp3"
+          }
+        ]
+      },
+      {
+        "taskText": "Слова, образующиеся от слова вода.",
+        "taskSource": "quiz-16-03-2023/p1.task.mp3",
+        "backgroundSource": "assets/images/backgrounds/space.png",
+        "questions": [
+          {
+            "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ложку? Если в чашку, нажми букву 'Ч' если в ложку - букву 'Л'. Отвечает первая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q1.mp3",
+            "answers": [
+              "Ч",
+              "Л"
+            ],
+            "rightAnswer": "Ч",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a1.mp3"
+          },
+          {
+            "questionText": "Как ты думаешь, куда больше поместится воды, в кастрюлю или в ванну? Если в кастрюлю, нажми букву 'К' если в ванну - букву 'В'. Отвечает вторая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q2.mp3",
+            "answers": [
+              "К",
+              "В"
+            ],
+            "rightAnswer": "В",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a2.mp3"
+          },
+          {
+            "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ванну? Если в чашку, нажми букву 'Ч' если в ванну - букву 'В'. Отвечает первая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q3.mp3",
+            "answers": [
+              "Ч",
+              "В"
+            ],
+            "rightAnswer": "В",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a3.mp3"
+          },
+          {
+            "questionText": "Как ты думаешь, где больше воды, в море или в ложке? Если в море, нажми букву 'М' если в ложку - букву 'Л'. Отвечает вторая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q4.mp3",
+            "answers": [
+              "М",
+              "Л"
+            ],
+            "rightAnswer": "М",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a4.mp3"
+          },
+          {
+            "questionText": "Как ты думаешь, где больше воды, в реке или в чашке? Если в реке, нажми букву 'Р' если в чашке - букву 'Ч'. Отвечает первая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q5.mp3",
+            "answers": [
+              "Р",
+              "Ч"
+            ],
+            "rightAnswer": "Р",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a5.mp3"
+          },
+          {
+            "questionText": "Как ты думаешь, где больше воды, в ванне или в море? Если в ванне, нажми букву 'В' если в море - букву 'М'. Отвечает вторая команда.",
+            "questionSource": "quiz-16-03-2023/p2.q6.mp3",
+            "answers": [
+              "В",
+              "М"
+            ],
+            "rightAnswer": "М",
+            "rightAnswerText": "Правильно",
+            "rightAnswerSource": "quiz-16-03-2023/p2.a6.mp3"
+          }
+        ]
+      }
+    ]
+}
